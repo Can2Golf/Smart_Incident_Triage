@@ -1,0 +1,42 @@
+[
+  {
+    "id": "INC0001",
+    "timestamp": "2025-04-24T10:30:00Z",
+    "subject": "Urgent: Action Required - Microsoft Password Expiring",
+    "sender": "security-alerts@micros0ft-support.com",
+    "body": "Your password will expire in 24 hours. Click here to renew.",
+    "user_reporter": "jane.doe@company.com",
+    "attachment": false,
+    "link_count": 1
+  },
+  {
+    "id": "INC0002",
+    "timestamp": "2025-04-24T11:15:00Z",
+    "subject": "Weekly Company Newsletter",
+    "sender": "newsletter@company.com",
+    "body": "Check out what happened this week at Company Inc!",
+    "user_reporter": "john.smith@company.com",
+    "attachment": false,
+    "link_count": 0
+  },
+  {
+    "id": "INC0003",
+    "timestamp": "2025-04-24T12:00:00Z",
+    "subject": "Unusual sign-in activity detected",
+    "sender": "alerts@security-microsoft.net",
+    "body": "Your account had a login attempt from an unknown location.",
+    "user_reporter": "alice.jones@company.com",
+    "attachment": false,
+    "link_count": 1
+  },
+  {
+    "id": "INC0004",
+    "timestamp": "2025-04-24T12:30:00Z",
+    "subject": "You've won a $500 gift card!",
+    "sender": "rewards@freestuff.biz",
+    "body": "Click here to claim your prize.",
+    "user_reporter": "mark.brown@company.com",
+    "attachment": true,
+    "link_count": 2
+  }
+]

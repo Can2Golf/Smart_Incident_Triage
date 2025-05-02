@@ -1,0 +1,107 @@
+[
+  {
+    "subject": "Urgent: Password Expiring",
+    "body": "Your password will expire soon. Click the link to reset it.",
+    "link_count": 1,
+    "attachment": false,
+    "label": "Phishing"
+  },
+  {
+    "subject": "Security Alert: Unusual login",
+    "body": "We detected a login attempt from another country. Act now.",
+    "link_count": 1,
+    "attachment": false,
+    "label": "Phishing"
+  },
+  {
+    "subject": "You’ve won a $500 gift card!",
+    "body": "Click here to claim your prize. Limited time offer!",
+    "link_count": 2,
+    "attachment": true,
+    "label": "Phishing"
+  },
+  {
+    "subject": "Reset your Netflix password",
+    "body": "Click the link below to reset your password.",
+    "link_count": 1,
+    "attachment": false,
+    "label": "Phishing"
+  },
+  {
+    "subject": "Account suspension warning",
+    "body": "Failure to act will result in account lock.",
+    "link_count": 1,
+    "attachment": false,
+    "label": "Phishing"
+  },
+  {
+    "subject": "Important notice from IT",
+    "body": "Scheduled maintenance will occur this Friday.",
+    "link_count": 0,
+    "attachment": false,
+    "label": "Benign"
+  },
+  {
+    "subject": "Team Lunch This Friday!",
+    "body": "Let's meet at noon in the breakroom.",
+    "link_count": 0,
+    "attachment": false,
+    "label": "Benign"
+  },
+  {
+    "subject": "Weekly Company Newsletter",
+    "body": "Here's a summary of this week’s updates.",
+    "link_count": 0,
+    "attachment": false,
+    "label": "Benign"
+  },
+  {
+    "subject": "Payroll Notice",
+    "body": "Paychecks will be deposited Monday.",
+    "link_count": 0,
+    "attachment": false,
+    "label": "Benign"
+  },
+  {
+    "subject": "New Internal Tools Training",
+    "body": "Attend the session on using our new tools.",
+    "link_count": 0,
+    "attachment": false,
+    "label": "Benign"
+  },
+  {
+    "subject": "Win a free cruise now!",
+    "body": "Just fill out this form and you're entered to win.",
+    "link_count": 1,
+    "attachment": true,
+    "label": "Spam"
+  },
+  {
+    "subject": "Discounts on Electronics",
+    "body": "Best deals of the season, click to browse.",
+    "link_count": 2,
+    "attachment": false,
+    "label": "Spam"
+  },
+  {
+    "subject": "Get 30% Off Supplements",
+    "body": "This weekend only. Don’t miss it!",
+    "link_count": 1,
+    "attachment": false,
+    "label": "Spam"
+  },
+  {
+    "subject": "Weight Loss Secrets Revealed",
+    "body": "Doctors don’t want you to know this one trick...",
+    "link_count": 2,
+    "attachment": true,
+    "label": "Spam"
+  },
+  {
+    "subject": "Exclusive Member Deals",
+    "body": "Save big with this limited-time offer.",
+    "link_count": 1,
+    "attachment": false,
+    "label": "Spam"
+  }
+]

@@ -1,0 +1,5 @@
+ID,Subject,Category,Priority,Team
+INC0001,Urgent: Action Required - Microsoft Password Expiring,Phishing,High,Email Security Team
+INC0002,Weekly Company Newsletter,Benign,Low,Auto-Archive
+INC0003,Unusual sign-in activity detected,Phishing,High,Email Security Team
+INC0004,You've won a $500 gift card!,Phishing,High,Email Security Team
